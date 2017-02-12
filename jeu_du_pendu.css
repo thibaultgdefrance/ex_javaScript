@@ -11,6 +11,7 @@
     background-color: black;
     top: 600px;
     position: absolute;
+    opacity: 0;
 }
 .partie2{
     height: 500px;
@@ -19,6 +20,7 @@
     left: 40px;
     background-color: black;
     position: absolute;
+    opacity: 0;
 }
 .partie3{
     height: 5px;
@@ -27,6 +29,7 @@
     left: 40px;
     background-color: black;
     position: absolute;
+    opacity: 0;
 }
 .partie4{
     height: 5px;
@@ -40,6 +43,7 @@
     -moz-transform:rotate(140deg); /* Firefox */
     -webkit-transform:rotate(140deg); /* Safari et Chrome */
     -o-transform:rotate(140deg); /* Opera */
+    opacity: 0;
 }
 .partie5{
     height: 40px;
@@ -48,6 +52,7 @@
     top: 100px;
     left: 228px;
     position: absolute;
+    opacity: 0;
 }
 .partie6{
     height: 50px;
@@ -57,6 +62,7 @@
     left: 200px;
     top: 140px;
     position: absolute;
+    opacity: 0;
 }
 .partie7{
     height: 150px;
@@ -65,6 +71,7 @@
     position: absolute;
     top: 200px;
     left: 228px;
+    opacity: 0;
 }
 .partie8{
     height: 100px;
@@ -78,6 +85,7 @@
     -moz-transform:rotate(40deg); /* Firefox */
     -webkit-transform:rotate(40deg); /* Safari et Chrome */
     -o-transform:rotate(40deg); /* Opera */
+    opacity: 0;
 
 }
 .partie9{
@@ -92,6 +100,7 @@
     -moz-transform:rotate(145deg); /* Firefox */
     -webkit-transform:rotate(145deg); /* Safari et Chrome */
     -o-transform:rotate(145deg); /* Opera */
+    opacity: 0;
 
 }
 .partie10{
@@ -106,6 +115,7 @@
     -moz-transform:rotate(40deg); /* Firefox */
     -webkit-transform:rotate(40deg); /* Safari et Chrome */
     -o-transform:rotate(40deg); /* Opera */
+    opacity: 0;
 
 }
 .partie11{
@@ -120,5 +130,6 @@
     -moz-transform:rotate(145deg); /* Firefox */
     -webkit-transform:rotate(145deg); /* Safari et Chrome */
     -o-transform:rotate(145deg); /* Opera */
+    opacity: 0;
 
 }
