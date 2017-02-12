@@ -1,0 +1,124 @@
+.pendu{
+    background-color: lightgrey;
+    height: 800px;
+    width: 600px;
+    top: 500px;
+    right: 200px;
+}
+.partie1{
+    height: 5px ;
+    width: 200px;
+    background-color: black;
+    top: 600px;
+    position: absolute;
+}
+.partie2{
+    height: 500px;
+    width:5px;
+    top: 100px;
+    left: 40px;
+    background-color: black;
+    position: absolute;
+}
+.partie3{
+    height: 5px;
+    width: 200px;
+    top: 100px;
+    left: 40px;
+    background-color: black;
+    position: absolute;
+}
+.partie4{
+    height: 5px;
+    width: 50px;
+    top: 120px;
+    left: 40px;
+    background-color: black;
+    position: absolute;
+    transform:rotate(140deg);
+    -ms-transform:rotate(140deg); /* Internet Explorer */
+    -moz-transform:rotate(140deg); /* Firefox */
+    -webkit-transform:rotate(140deg); /* Safari et Chrome */
+    -o-transform:rotate(140deg); /* Opera */
+}
+.partie5{
+    height: 40px;
+    width: 5px;
+    background-color: black;
+    top: 100px;
+    left: 228px;
+    position: absolute;
+}
+.partie6{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 5px black solid ;
+    left: 200px;
+    top: 140px;
+    position: absolute;
+}
+.partie7{
+    height: 150px;
+    width: 5px;
+    background-color: black;
+    position: absolute;
+    top: 200px;
+    left: 228px;
+}
+.partie8{
+    height: 100px;
+    width: 5px;
+    background-color: black;
+    position: absolute;
+    left: 198px;
+    top: 200px;
+    transform:rotate(40deg);
+    -ms-transform:rotate(40deg); /* Internet Explorer */
+    -moz-transform:rotate(40deg); /* Firefox */
+    -webkit-transform:rotate(40deg); /* Safari et Chrome */
+    -o-transform:rotate(40deg); /* Opera */
+
+}
+.partie9{
+    height: 100px;
+    width: 5px;
+    background-color: black;
+    position: absolute;
+    left: 258px;
+    top: 205px;
+    transform:rotate(145deg);
+    -ms-transform:rotate(145deg); /* Internet Explorer */
+    -moz-transform:rotate(145deg); /* Firefox */
+    -webkit-transform:rotate(145deg); /* Safari et Chrome */
+    -o-transform:rotate(145deg); /* Opera */
+
+}
+.partie10{
+    height: 100px;
+    width: 5px;
+    background-color: black;
+    position: absolute;
+    left: 198px;
+    top: 330px;
+    transform:rotate(40deg);
+    -ms-transform:rotate(40deg); /* Internet Explorer */
+    -moz-transform:rotate(40deg); /* Firefox */
+    -webkit-transform:rotate(40deg); /* Safari et Chrome */
+    -o-transform:rotate(40deg); /* Opera */
+
+}
+.partie11{
+    height: 100px;
+    width: 5px;
+    background-color: black;
+    position: absolute;
+    left: 258px;
+    top: 335px;
+    transform:rotate(145deg);
+    -ms-transform:rotate(145deg); /* Internet Explorer */
+    -moz-transform:rotate(145deg); /* Firefox */
+    -webkit-transform:rotate(145deg); /* Safari et Chrome */
+    -o-transform:rotate(145deg); /* Opera */
+
+}
